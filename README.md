@@ -2,18 +2,6 @@
   <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<!--
-Обо мне
--->
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
-</div>
-
 <!--
 Соц. сети
 -->
@@ -30,3 +18,16 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=tryzediv&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<!--
+Обо мне
+-->
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+</div>
+
