@@ -29,10 +29,12 @@
 -->
 ### :man_technologist: About Me :
 I am a beginner QA engineer
-- :open_book: I am studying at the Skillfactory course in the specialty Python QA automator
+- :open_book: I am studying at the Skillfactory course in the specialty Python QA automator.
 
-- :computer: Exploring Technical Content Writing.
+- :computer: I study programming languages on my own: Python, Bash, JavaScript.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write Python programs and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-kharin-27052a261/)
+
+
