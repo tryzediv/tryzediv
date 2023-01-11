@@ -6,6 +6,7 @@
 Соц. сети
 -->
 <div id="badges" align='center'>
+  <img src="https://komarev.com/ghpvc/?username=tryzediv&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/dmitry-kharin-27052a261/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
