@@ -52,7 +52,7 @@ I am a beginner QA engineer
 </div>
 
 ### Testing Documentation
-- :open_book: I am studying at the Skillfactory course in the specialty Python QA automator.
+- <a href="https://www.linkedin.com/in/dmitry-kharin-27052a261/">KJHkjh</a>
 
 - :computer: I study programming languages on my own: Python, Bash, JavaScript.
 
