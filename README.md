@@ -52,8 +52,11 @@ I am a beginner QA engineer
 </div>
 
 ### Testing Documentation
-- <a href="https://www.linkedin.com/in/dmitry-kharin-27052a261/">KJHkjh</a>
+- <a href="https://docs.google.com/document/d/10a7CIR0VkjzrEMZlYAceUrqj--jMk0W-VjxsIymotpQ/edit?usp=sharing">Test plan ex.</a>
 
-- :computer: I study programming languages on my own: Python, Bash, JavaScript.
+- <a href="https://docs.google.com/spreadsheets/d/1pZOfNHkrSPHnYHbl_beH6kdsue9KCo98XBUj4QF3rKA/edit?usp=sharing">Checklist ex.</a>
 
-- :beers: In my free time, I write Python programs and read tech articles.
+- <a href="https://docs.google.com/spreadsheets/d/1xtZWCO9UIHCSkPLz-mKFLqECZfROpN0wKWajXTg7XGQ/edit?usp=sharing">Test cases ex.</a>
+
+- <a href="https://docs.google.com/spreadsheets/d/1SnJLhKOYBmp-LKzr6DDVINJKWsK-0lZZQKwjWGO8JSY/edit?usp=sharing">Cross-browser testing & Bug reports ex.</a>
+
