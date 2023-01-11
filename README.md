@@ -8,6 +8,13 @@
 </h1>
 
 <!--
+Обо мне
+-->
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+</div>
+
+<!--
 Соц. сети
 -->
 <div id="badges" align='center'>
