@@ -51,3 +51,9 @@ I am a beginner QA engineer
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
+### Testing Documentation
+- :open_book: I am studying at the Skillfactory course in the specialty Python QA automator.
+
+- :computer: I study programming languages on my own: Python, Bash, JavaScript.
+
+- :beers: In my free time, I write Python programs and read tech articles.
