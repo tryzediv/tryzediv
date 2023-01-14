@@ -60,3 +60,5 @@ I am a beginner QA engineer
 
 - <a href="https://docs.google.com/spreadsheets/d/1SnJLhKOYBmp-LKzr6DDVINJKWsK-0lZZQKwjWGO8JSY/edit?usp=sharing">Cross-browser testing & Bug reports ex.</a>
 
+- <a href="https://docs.google.com/spreadsheets/d/1pa7SqoiauBFs0Z4nFcs5jj7pkl9i76nkxWV0vSwg_4c/edit#gid=0">Mobile testing ex.</a>
+
