@@ -6,13 +6,13 @@
 Соц. сети
 -->
 <div id="badges" align='center'>
-  <a href="https://www.linkedin.com/in/dmitry-kharin-27052a261/">
+  <a href="https://www.linkedin.com/in/dmitry-kharin-27052a261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/tryzediv">
+  <a href="https://t.me/tryzediv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/liemecarefully/">
+  <a href="https://www.instagram.com/liemecarefully/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <br>
