@@ -52,13 +52,13 @@ I am a beginner QA engineer
 </div>
 
 ### Testing Documentation
-- <a href="https://docs.google.com/document/d/10a7CIR0VkjzrEMZlYAceUrqj--jMk0W-VjxsIymotpQ/edit?usp=sharing">Test plan ex.</a>
+- <a href="https://docs.google.com/document/d/10a7CIR0VkjzrEMZlYAceUrqj--jMk0W-VjxsIymotpQ/edit?usp=sharing" target="_blank">Test plan ex.</a>
 
-- <a href="https://docs.google.com/spreadsheets/d/1pZOfNHkrSPHnYHbl_beH6kdsue9KCo98XBUj4QF3rKA/edit?usp=sharing">Checklist ex.</a>
+- <a href="https://docs.google.com/spreadsheets/d/1pZOfNHkrSPHnYHbl_beH6kdsue9KCo98XBUj4QF3rKA/edit?usp=sharing" target="_blank">Checklist ex.</a>
 
-- <a href="https://docs.google.com/spreadsheets/d/1xtZWCO9UIHCSkPLz-mKFLqECZfROpN0wKWajXTg7XGQ/edit?usp=sharing">Test cases ex.</a>
+- <a href="https://docs.google.com/spreadsheets/d/1xtZWCO9UIHCSkPLz-mKFLqECZfROpN0wKWajXTg7XGQ/edit?usp=sharing" target="_blank">Test cases ex.</a>
 
-- <a href="https://docs.google.com/spreadsheets/d/1SnJLhKOYBmp-LKzr6DDVINJKWsK-0lZZQKwjWGO8JSY/edit?usp=sharing">Cross-browser testing & Bug reports ex.</a>
+- <a href="https://docs.google.com/spreadsheets/d/1SnJLhKOYBmp-LKzr6DDVINJKWsK-0lZZQKwjWGO8JSY/edit?usp=sharing" target="_blank">Cross-browser testing & Bug reports ex.</a>
 
-- <a href="https://docs.google.com/spreadsheets/d/1pa7SqoiauBFs0Z4nFcs5jj7pkl9i76nkxWV0vSwg_4c/edit#gid=0">Mobile testing ex.</a>
+- <a href="https://docs.google.com/spreadsheets/d/1pa7SqoiauBFs0Z4nFcs5jj7pkl9i76nkxWV0vSwg_4c/edit#gid=0" target="_blank">Mobile testing ex.</a>
 
