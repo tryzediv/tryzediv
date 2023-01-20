@@ -29,7 +29,7 @@
 -->
 ### :man_technologist: About Me :
 I am a beginner QA engineer
-- :open_book: I am studying at the Skillfactory course in the specialty Python QA automator.
+- :open_book: I am studying on the Skillfactory course in the specialty Python QA automator.
 
 - :beers: In my free time, I write Python programs and read tech articles.
 
