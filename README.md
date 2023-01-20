@@ -31,7 +31,7 @@
 I am a beginner QA engineer
 - :open_book: I am studying at the Skillfactory course in the specialty Python QA automator.
 
-- :computer: I study programming languages on my own: Python, Bash, JavaScript.
+- :computer: <a href="https://drive.google.com/drive/folders/15rjRSpWLZ-atA9dkw_FY4WswOqmZvpAU?usp=share_link" target="_blank">My certificates</a>
 
 - :beers: In my free time, I write Python programs and read tech articles.
 
