@@ -52,11 +52,11 @@ I am a beginner QA engineer
 </div>
 
 ### Testing Documentation
+- <a href="https://docs.google.com/spreadsheets/d/1QKS3qNLP2bERIIz-qkEGyyuL3GF9L3YK8ursy4ZEoaQ/edit?usp=sharing" target="_blank">Test cases ex.</a>
+
 - <a href="https://docs.google.com/document/d/10a7CIR0VkjzrEMZlYAceUrqj--jMk0W-VjxsIymotpQ/edit?usp=sharing" target="_blank">Test plan ex.</a>
 
 - <a href="https://docs.google.com/spreadsheets/d/1pZOfNHkrSPHnYHbl_beH6kdsue9KCo98XBUj4QF3rKA/edit?usp=sharing" target="_blank">Checklist ex.</a>
-
-- <a href="https://docs.google.com/spreadsheets/d/1xtZWCO9UIHCSkPLz-mKFLqECZfROpN0wKWajXTg7XGQ/edit?usp=sharing" target="_blank">Test cases ex.</a>
 
 - <a href="https://docs.google.com/spreadsheets/d/1SnJLhKOYBmp-LKzr6DDVINJKWsK-0lZZQKwjWGO8JSY/edit?usp=sharing" target="_blank">Cross-browser testing & Bug reports ex.</a>
 
